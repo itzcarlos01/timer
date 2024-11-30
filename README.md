@@ -4,7 +4,7 @@ A simple and responsive timer application that allows users to set a countdown i
 
 ## Demo
 
-You can try out the live demo of the Timer [here](#) (if available).
+You can try out the live demo of the Timer [here](https://timer-omega-one.vercel.app/) (if available).
 
 ## Features
 
