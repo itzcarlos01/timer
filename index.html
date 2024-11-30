@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div class="hidden sm:mb-8 sm:flex sm:justify-center">
+          <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+            A simple timer by <a href="https://hectorluez.vercel.app" target="_blank" rel="noopener" class="font-semibold text-indigo-600">hectorluez<span aria-hidden="true"></span></a>. <a href="https://github.com/itzcarlos01/timer" target="_blank" rel="noopener" class="font-semibold text-indigo-600">GitHub Repository<span aria-hidden="true">&rarr;</span></a>
+          </div>
+        </div>
+    <div class="container">
+        <h1>Timer</h1>
+        <p>Enter minutes and use the Start button to start the timer 🎉</p>
+        <div id="timer">00:00</div>
+        <input type="number" id="minutes" placeholder="Enter minutes" />
+        <div class="buttons">
+            <button id="startBtn">Start</button>
+            <button id="resumeBtn" disabled>Resume</button>
+            <button id="pauseBtn" disabled>Pause</button>
+            <button id="resetBtn">Reset</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
