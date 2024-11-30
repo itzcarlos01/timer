@@ -47,7 +47,7 @@ If you have any suggestions for improvements or would like to add new features, 
 
 ## Authors
 
-hectorluez - [hectorluez.vercel.app](hectorluez.vercel.app)
+hectorluez - [hectorluez.vercel.app](https://hectorluez.vercel.app)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/itzcarlos01/timer/blob/main/LICENSE) file for details.
